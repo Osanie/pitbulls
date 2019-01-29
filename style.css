@@ -1,4 +1,4 @@
 .vl {
-    border-left: thick solid #ff0000;
-
+    border-left: 6px solid green;
+    height: 500px;
 }
